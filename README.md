@@ -79,7 +79,7 @@ Foram gerados três modelos distintos, pois nem todas as análises litogeoquími
  - **ROC AUC:** 0,9613
 
 
-### Comentários
+### 3. Comentários
 
  - As métricas de avaliação demonstram que o melhor modelo é o Modelo C, que abrange todos os óxidos, alguns elementos traços e um elemento terra rara (La);
  - Mesmo o Modelo A, que apresentou os piores resultados, demonstra grande capacidade para classificação de granitos;
